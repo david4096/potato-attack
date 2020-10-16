@@ -6,7 +6,7 @@
 # Potato attack
 
 <input type="text" size="16">
-<span class="cdk-overlay-connected-position-bounding-box error_widget_wrapper">
+<span class="cdk-overlay-connected-position-bounding-box error_widget_wrapper mat-toolbar mat-primary mat-toolbar-multiple-rows ng-star-inserted">
 You have been attacked by a potato
 <iframe src="https://raw.githubusercontent.com/david4096/potato-attack/master/mashed.svg">
 They hid my iframe
